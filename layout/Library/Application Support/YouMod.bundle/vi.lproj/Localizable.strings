@@ -1,12 +1,6 @@
-"NOTE" = "LƯU Ý : Một số tính năng ẩn sẽ để lại khoảng trống.";
 "SETTINGS" = "Cài đặt";
 
-"NEW_ISSUES" = "Báo lỗi hoặc yêu cầu tính năng mới.";
-"NEW_ISSUES_DESC" = "Bạn tìm thấy lỗi hoặc muốn yêu cầu thêm tính năng mới? Nhấn vào đây.";
-"SOURCE_CODES" = "Mã nguồn";
-"SOURCE_CODES_DESC" = "Xem mã nguồn dự án!";
-
-"PERFER_HEADER" = "Tuỳ chọn YouMod";
+"PERFER_HEADER" = "Nâng cao";
 "PERFER" = "Tùy chọn";
 "IMPORT" = "Nhập cài đặt";
 "IMPORT_DESC" = "Tải các cài đặt của bạn từ một tệp .plist.";
