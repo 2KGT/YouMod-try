@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           ref: ${{ inputs.branch || github.ref }}
-          path: YouMod
+          path: root
 
       - name: Install dependencies
         run: brew install make ldid
